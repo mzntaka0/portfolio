@@ -54,10 +54,9 @@ const documentMenuSettings: DocumentMenuSettings = {
       key: "testimonial",
     },
     {
-      url: "/category1",
-      text: "Category1",
-      key: "category1",
-      disabled: true
+      url: "/works",
+      text: "Works",
+      key: "works",
     },
     {
       url: "/category2",

@@ -15,7 +15,7 @@
     "@zeit/next-css": "^1.0.1",
     "antd": "^3.26.7",
     "apollo-server-micro": "^2.9.15",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-inline-import": "^3.0.0",
     "babel-preset-stage-0": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
